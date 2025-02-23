@@ -1,6 +1,7 @@
-# LTM Transformer
+# Obsidian Memory Transformer
 
-A high-performance implementation of a Transformer model with long-term memory capabilities, inspired by Google's Titan architecture. This project provides efficient CUDA implementations of FlashAttention and memory-augmented Transformer blocks, along with Python bindings for easy integration.
+
+A novel LLM architecture written in highly optimized low-level C++/CUDA with a new Long-Term Memory (LTM) mechanism for large context windows. This is a high-performance implementation of a Transformer model with long-term memory capabilities, inspired by Google's Titan architecture. This project provides efficient CUDA implementations of FlashAttention and memory-augmented Transformer blocks, along with Python bindings for easy integration.
 
 ## Features
 
