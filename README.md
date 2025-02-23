@@ -204,5 +204,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Contact
 
-- Sahibzada Allahyar - allahyar@singularityresearch.org
-- Project Link: https://github.com/singularityresearch/ltm-transformer
+- Sahibzada A - sahibzada@singularityresearchlabs.com
+- Project Link: https://github.com/Sahibzada-A/Obsidian-Memory-Transformer
