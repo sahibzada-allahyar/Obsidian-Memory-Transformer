@@ -186,7 +186,7 @@ If you use this work in your research, please cite:
 @article{allahyar2025ltm,
     title={LTM Transformer: Long-term Memory Transformer with Titan-inspired Architecture},
     author={Allahyar, Sahibzada},
-    journal={arXiv preprint arXiv:2025.xxxxx},
+    journal= https://github.com/Sahibzada-A/Obsidian-Memory-Transformer,
     year={2025}
 }
 ```
