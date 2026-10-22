@@ -1,3 +1,5 @@
+Personal website: [Sahibzada Allahyar](https://sahibzada-allahyar.github.io)
+
 ## Press Coverage
 
 - [Cambridge physicist and AI pioneer Sahibzada Allahyar achieves historic score in theoretical physics exam](https://www.nyjtech.com/article/cambridge-physicist-and-ai-pioneer-sahibzada-allahyar-achieves-historic-score-in-theoretical-physics-exam)
